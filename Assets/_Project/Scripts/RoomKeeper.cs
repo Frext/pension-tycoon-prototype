@@ -1,7 +1,8 @@
 using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
-using UnityEngine.Serialization;
 
 namespace _Project.Scripts
 {
@@ -14,7 +15,26 @@ namespace _Project.Scripts
     
     public class RoomKeeper : MonoBehaviour
     {
-        public List<Room> roomsList;
+        public List<Room> roomsList = new ();
+
+        void Start()
+        {
+            StartCoroutine(UpdateRooms());
+        }
+
+        private IEnumerator UpdateRooms()
+        {
+            while (true)
+            {
+                foreach (var go in GameObject.FindGameObjectsWithTag("Room"))
+                {
+                    if (roomsList.All(room => room.transform != go.transform))
+                        roomsList.Add(new Room { transform = go.transform });
+                }
+
+                yield return new WaitForSeconds(5);
+            }
+        }
 
         public Room GetRoom()
         {

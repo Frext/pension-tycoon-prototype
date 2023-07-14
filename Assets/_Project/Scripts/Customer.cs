@@ -43,6 +43,8 @@ namespace _Project.Scripts
                         {
                             target = outPos;
                         }
+                        
+                        yield return new WaitForSeconds(1f);
                     }
                     else if (target != outPos)
                     {

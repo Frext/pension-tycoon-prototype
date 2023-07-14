@@ -28,7 +28,7 @@ namespace _Project.Scripts
         {
             while (true)
             {
-                textMeshPro.text = precedingText + ratingObjectSO.value;
+                textMeshPro.text = precedingText + "\n" + ratingObjectSO.value;
                 yield return new WaitForSeconds(.5f);
             }
         }
