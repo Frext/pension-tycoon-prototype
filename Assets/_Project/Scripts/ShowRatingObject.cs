@@ -1,24 +1,23 @@
+using System;
 using System.Collections;
 using _Project.Scripts.ScriptableObjects;
-using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 namespace _Project.Scripts
 {
-    [RequireComponent(typeof(TextMeshProUGUI))]
+    [RequireComponent(typeof(Image))]
     public class ShowRatingObject : MonoBehaviour
     {
-        [SerializeField] private string precedingText;
         [SerializeField] private RatingObject ratingObjectSO;
 
-        TextMeshProUGUI textMeshPro;
+        private Image image;
 
-		
         void Awake()
         {
-            textMeshPro = GetComponent<TextMeshProUGUI>();
+            image = GetComponent<Image>();
         }
-		
+
         void OnEnable()
         {
             StartCoroutine(IUpdateText());
@@ -28,7 +27,7 @@ namespace _Project.Scripts
         {
             while (true)
             {
-                textMeshPro.text = precedingText + "\n" + ratingObjectSO.value;
+                image.fillAmount = ratingObjectSO.value / 5f;
                 yield return new WaitForSeconds(.25f);
             }
         }
