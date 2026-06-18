@@ -51,10 +51,10 @@ https://github.com/user-attachments/assets/14c04340-913f-46bf-afdd-9c9decd231c6
 
 ## 🎯 Core Features
 
-* **Dynamic Structural Expansion:** Seamlessly add new vertical building layers (**Yeni Kat Ekle**) and build vital facilities (**Yeni Oda Ekle**) like Bedrooms (Oda), Kitchens (Mutfak), Receptions (Resepsiyon), and Restrooms (WC/Banyo).
-* **Maintenance & Cleaning Loop:** Monitor room conditions actively. Use the contextual broom icon alerts to clean up dirt and reset high-occupancy areas.
-* **Layout Modification:** Toggle construction modes (**Odaları silmeyi aç / kapat**) to strip down or redesign rooms for optimal room layouts.
-* **Economic Loop & Leaderboard:** Track Daily Income (**Günlük Kazanç**), boost overall Company Value (**Şirket Değeri**), and compare your business prowess against other firms on the live scoreboard (**Skor Tablosu**).
+* **Dynamic Structural Expansion:** Seamlessly add new vertical floors (**Yeni Kat Ekle**) and new rooms (**Yeni Oda Ekle**) like Bedrooms (Oda), Kitchens (Mutfak), and Restrooms (WC/Banyo).
+* **Maintenance Loop:** Monitor room conditions actively. Use the contextual icon alerts to reset room availability.
+* **Modular Room Deletion:** Toggle construction modes (**Odaları silmeyi aç / kapat**) to remove rooms.
+* **Economic Loop & Leaderboard:** Track Daily Income (**Günlük Kazanç**), boost Company Value (**Şirket Değeri**), and compare your business on the live scoreboard (**Skor Tablosu**).
 
 ---
 
