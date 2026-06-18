@@ -4,7 +4,7 @@
 [![Language](https://img.shields.io/badge/Language-C%23-green.svg?style=flat&logo=c-sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Render Pipeline](https://img.shields.io/badge/Pipeline-URP-orange.svg?style=flat)](https://docs.unity3d.com/6000.4/Documentation/Manual/urp/urp-introduction.html)
 
-A strategic, grid-based hotel management simulator prototype. Take charge of your hospitality business, design optimal floor plans, maintain clean facilities, and expand your infrastructure to climb the global rankings.
+Prototype for a strategic hostel management simulator where you build and expand your business.
 
 ---
 
@@ -51,9 +51,9 @@ https://github.com/user-attachments/assets/14c04340-913f-46bf-afdd-9c9decd231c6
 
 ## 🎯 Core Features
 
-* **Dynamic Structural Expansion:** Seamlessly add new vertical floors (**Yeni Kat Ekle**) and new rooms (**Yeni Oda Ekle**) like Bedrooms (Oda), Kitchens (Mutfak), and Restrooms (WC/Banyo).
-* **Maintenance Loop:** Monitor room conditions actively. Use the contextual icon alerts to reset room availability.
-* **Modular Room Deletion:** Toggle construction modes (**Odaları silmeyi aç / kapat**) to remove rooms.
+* **Dynamic Structural Expansion:** Seamlessly add new vertical floors (**Yeni Kat Ekle**) and new rooms (**Yeni Oda Ekle**) like Bedrooms (**Oda**), Kitchens (**Mutfak**), and Restrooms (**WC/Banyo**).
+* **Maintenance Loop:** Monitor room readiness actively. Click on the contextual alert buttons to reset room availability.
+* **Modular Room Deletion:** Toggle room deletion (**Odaları silmeyi aç / kapat**) to remove rooms.
 * **Economic Loop & Leaderboard:** Track Daily Income (**Günlük Kazanç**), boost Company Value (**Şirket Değeri**), and compare your business on the live scoreboard (**Skor Tablosu**).
 
 ---
