@@ -13,7 +13,7 @@ Prototype for [a hostel management simulator](https://github.com/Frext/pension-t
 
 Want to skip the code and just play?
 
-1. **[Download the Repository](https://github.com/Frext/PROTOTYPE-APensionStory/archive/refs/heads/main.zip)**
+1. **[Download the Repository](https://github.com/Frext/pension-tycoon-prototype/archive/refs/heads/main.zip)**
 2. Extract the ZIP file.
 3. Open the **`BuildWindows`** folder and run the game executable named **`PROTOTYPE-APensionStory.exe`**.
 
@@ -38,15 +38,15 @@ https://github.com/user-attachments/assets/14c04340-913f-46bf-afdd-9c9decd231c6
 
 | Game Start | Gameplay |
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/fe3ee4d3-ad69-4164-8123-bb7738f2cd64" alt="Game Start"/> | <img src="https://github.com/user-attachments/assets/2f93dbd0-e472-40c4-84f1-83c23e92939e" alt="Gameplay"/> |
+| <img src="https://github.com/user-attachments/assets/fe3ee4d3-ad69-4164-8123-bb7738f2cd64" width="500" alt="Game Start"/> | <img src="https://github.com/user-attachments/assets/2f93dbd0-e472-40c4-84f1-83c23e92939e" width="500" alt="Gameplay"/> |
 
 | Add New Floors | Modular Room Insertion |
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/35951df0-d55d-4d3e-a00f-c13cc7d256fa" alt="Add New Floors"/> | <img src="https://github.com/user-attachments/assets/a42f0ca4-bd5a-444d-9170-04803afbeaec" alt="Modular Room Insertion"/> |
+| <img src="https://github.com/user-attachments/assets/35951df0-d55d-4d3e-a00f-c13cc7d256fa" width="500" alt="Add New Floors"/> | <img src="https://github.com/user-attachments/assets/a42f0ca4-bd5a-444d-9170-04803afbeaec" width="500" alt="Modular Room Insertion"/> |
 
 | Modular Room Deletion | Leaderboard |
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/1ec20772-280f-4934-96d0-1e78ff1b6e3b" alt="Structural Room Deletion"/> | <img src="https://github.com/user-attachments/assets/3f66ac4a-69a9-4e11-b3fc-2c3c71faa702" alt="Leaderboard"/> |
+| <img src="https://github.com/user-attachments/assets/1ec20772-280f-4934-96d0-1e78ff1b6e3b" width="500" alt="Structural Room Deletion"/> | <img src="https://github.com/user-attachments/assets/3f66ac4a-69a9-4e11-b3fc-2c3c71faa702" width="500" alt="Leaderboard"/> |
 
 ---
 
