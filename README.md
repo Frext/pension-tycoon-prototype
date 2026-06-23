@@ -15,7 +15,7 @@ Want to skip the code and just play?
 
 1. **[Download the Repository](https://github.com/Frext/pension-tycoon-prototype/archive/refs/heads/main.zip)**
 2. Extract the ZIP file.
-3. Open the **`BuildWindows`** folder and run the game executable named **`PROTOTYPE-APensionStory.exe`**.
+3. Open the **`BuildWindows`** folder and launch **`PROTOTYPE-APensionStory.exe`**.
 
 ---
 
